@@ -1,0 +1,45 @@
+body {
+    font-family: system-ui, sans-serif;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px 16px;
+    color: #222;
+    background: #fff;
+}
+
+a {
+    color: #888;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 24px 0 16px;
+}
+
+#map {
+    height: 60vh;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 15px;
+}
+
+span {
+    font-weight: 500;
+}
