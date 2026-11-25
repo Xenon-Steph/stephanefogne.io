@@ -4,7 +4,7 @@ var options = {
     maximumAge: 0
 };
 
-// Affiche les données d'une position dans la section choisie ("current" ou "watch")
+
 function afficher(pos, section) {
     var crd = pos.coords;
 

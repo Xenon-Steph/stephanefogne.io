@@ -1,4 +1,4 @@
-var nice = [43.7009, 7.2683];
+var nice = [43.7169, 7.2663];
 var marseille = [43.2965, 5.3698];
 
 var map = L.map("map").setView(nice, 13);
